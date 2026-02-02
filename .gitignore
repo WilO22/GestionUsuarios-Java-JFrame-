@@ -1,0 +1,24 @@
+# Compiled class files
+target/
+
+# Maven wrapper
+.mvn/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
