@@ -27,6 +27,19 @@ src/main/java/com/mycompany/gestionusuarios/
 └── RoundedButton.java   # Componente personalizado con bordes redondeados
 ```
 
+## 📥 Instalación
+
+### Prerrequisitos
+- **Java 21** o superior instalado
+- **Maven** instalado
+- **NetBeans** (opcional)
+
+### Clonar el repositorio
+```bash
+git clone https://github.com/WilO22/GestionUsuarios-Java-JFrame-.git
+cd GestionUsuarios-Java-JFrame-
+```
+
 ## ▶️ Cómo Ejecutar
 
 ### Opción 1: Maven (Terminal)
