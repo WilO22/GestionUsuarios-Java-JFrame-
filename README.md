@@ -83,6 +83,6 @@ La interfaz cuenta con:
 
 ## 👤 Autor
 
-- **Nombre:** [Wilmer Ogosi]
+- **Nombre:** Wilmer Ogosi
 - **Curso:** Programación en Java - Semestre 4
 
