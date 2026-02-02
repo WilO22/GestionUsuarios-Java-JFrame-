@@ -84,5 +84,5 @@ La interfaz cuenta con:
 ## 👤 Autor
 
 - **Nombre:** Wilmer Ogosi
-- **Curso:** Programación en Java - Semestre 4
+- **Curso:** Programación en Java - Semana 4
 
