@@ -67,8 +67,6 @@ La interfaz cuenta con:
 
 ## 📸 Capturas de Pantalla
 
-> **Nota:** Agrega tus capturas en una carpeta `screenshots/` y reemplaza las rutas
-
 ### Vista Principal
 ![Vista Principal](screenshots/vista_principal.png)
 
